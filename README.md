@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Abdhul Raheman Sheik 👋
 
-<!--
-**abdhulraheman/abdhulraheman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | SQL | Python | Power BI | Excel
 
-Here are some ideas to get you started:
+Data Analyst with 2 years of professional experience at Cognizant. Passionate about transforming raw data into actionable business insights through SQL, Python, Excel, and Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- SQL (MySQL)
+- Python (Pandas, NumPy, Matplotlib)
+- Power BI (DAX, Power Query)
+- Excel (Pivot Tables, Power Query)
+- Git & GitHub
+
+## Featured Projects
+
+### 🍫 Chocolate Sales Dashboard
+Power BI dashboard with DAX KPIs, Power Query transformations, and interactive reporting.
+
+### 🛒 Zepto Sales Analysis
+SQL project using JOINs, CTEs, GROUP BY, HAVING, and Subqueries.
+
+### 🌦 Weather Data Analysis
+Python EDA project using Pandas and Matplotlib.
+
+## Connect With Me
+
+- LinkedIn: linkedin.com/in/abdhul-raheman-sheik-483b90250
+- Email: abdhulrahemansheik@gmail.com
